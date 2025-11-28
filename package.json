@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/majidsaddiqye/AI-ChatBot-BackendRepo#readme",
   "dependencies": {
+    "@google/genai": "^1.30.0",
     "dotenv": "^17.2.3",
     "express": "^5.1.0",
     "nodemon": "^3.1.11",
